@@ -12,7 +12,3 @@ Começamos desenvolvendo o manual de marca, com cores e tipografia:<br>
 Depois desenvolvemos os protótipos de alta fidelidade, tanto para o formato desktop, quanto para o mobile:<br>
 
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/33a3feb5-2aa7-448e-9536-c169964cefbe" />
-
-
-
-
